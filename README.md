@@ -1,2 +1,2 @@
-# Teas
-Teas
+# Teatest
+Tea Testnet
